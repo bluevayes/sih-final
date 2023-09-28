@@ -1,3 +1,7 @@
+Project Status
+
+🚧 Work in Progress: Please note that this project is currently in active development. We are continuously working to improve its functionality and user experience.
+
 Doctor Availability and Allocation Optimization Web Application
 
 Welcome to the Doctor Availability and Allocation Optimization Web Application repository! This project aims to streamline the allocation of doctors, enhance availability tracking, and provide users 
